@@ -1,6 +1,6 @@
 {
   "name": "react-painless-toast",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "🍞 Simple toast component for React",
   "main": "./build/index.js",
   "author": {
@@ -31,5 +31,8 @@
     "webpack": "^4.44.1",
     "webpack-cli": "^3.3.12",
     "webpack-dev-server": "^3.11.0"
+  },
+  "peerDependencies": {
+    "react": "^16.13.1"
   }
 }
