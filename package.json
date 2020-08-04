@@ -1,9 +1,12 @@
 {
-  "name": "react-simple-toast",
+  "name": "react-painless-toast",
   "version": "1.0.0",
   "description": "🍞 Simple toast component for React",
   "main": "./build/index.js",
-  "author": "",
+  "author": {
+    "name": "Erik Martín Jordán",
+    "url": "https://erikmartinjordan.com/"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "webpack"
@@ -28,8 +31,5 @@
     "webpack": "^4.44.1",
     "webpack-cli": "^3.3.12",
     "webpack-dev-server": "^3.11.0"
-  },
-  "dependencies": {
-    "react": "^16.13.1"
   }
 }
