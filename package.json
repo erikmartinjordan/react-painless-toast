@@ -1,0 +1,35 @@
+{
+  "name": "react-simple-toast",
+  "version": "1.0.0",
+  "description": "🍞 Simple toast component for React",
+  "main": "./build/index.js",
+  "author": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/erikmartinjordan/react-simple-toast.git"
+  },
+  "keywords": [],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/erikmartinjordan/react-simple-toast/issues"
+  },
+  "homepage": "https://github.com/erikmartinjordan/react-simple-toast#readme",
+  "devDependencies": {
+    "@babel/core": "^7.11.0",
+    "@babel/preset-env": "^7.11.0",
+    "@babel/preset-react": "^7.10.4",
+    "babel-loader": "^8.1.0",
+    "css-loader": "^4.2.0",
+    "style-loader": "^1.2.1",
+    "webpack": "^4.44.1",
+    "webpack-cli": "^3.3.12",
+    "webpack-dev-server": "^3.11.0"
+  },
+  "dependencies": {
+    "react": "^16.13.1"
+  }
+}

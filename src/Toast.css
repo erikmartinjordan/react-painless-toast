@@ -1,0 +1,36 @@
+.Toast{
+    align-items: center;
+    animation: bounce 0.2s;
+    background: var(--bgColor);
+    border-radius: 0px 5px 5px 0px;
+    box-shadow: rgba(15, 15, 15, 0.1) 0px 0px 0px 1px, rgba(15, 15, 15, 0.2) 0px 5px 10px, rgba(15, 15, 15, 0.4) 0px 15px 40px;
+    display: flex;
+    line-height: 1.5;
+    min-width: 250px;
+    padding: 10px;
+    position: fixed;
+    right: 50px;
+    top: 50px;
+}
+.Toast.Ok{
+    border-left: 3px solid var(--green);
+}
+.Toast.Ko{
+    border-left: 3px solid var(--red);
+}
+.Toast .Title{
+    font-size: medium;
+}
+.Toast .Message{
+    font-size: small;
+}
+@keyframes bounce{
+    0%    {opacity: 0;   transform: scale(1,1);}
+    50%   {opacity: 0.5; transform: scale(1.1, 1.1);}
+    100%  {opacity: 1;   transform: scale(1,1);}
+}
+@media (max-width: 768px){
+   .Toast{
+        right: auto;
+    } 
+}
