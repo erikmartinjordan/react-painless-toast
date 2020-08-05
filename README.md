@@ -1,4 +1,4 @@
-# react-simple-toast
+# react-painless-toast
 
 ![react-simple-toast version](https://img.shields.io/npm/v/react-painless-toast)
 ![react-simple-toast license](https://img.shields.io/npm/l/react-painless-toast)
