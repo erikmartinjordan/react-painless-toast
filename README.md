@@ -3,7 +3,7 @@
 ![react-simple-toast version](https://img.shields.io/npm/v/react-painless-toast)
 ![react-simple-toast license](https://img.shields.io/npm/l/react-painless-toast)
 
-It displays a toast in the right top corner of the screen.
+It displays a toast in the right top corner of the window.
 
 ![Toast](https://media0.giphy.com/media/QZUPpcqD0Ud3BvpPn5/giphy.gif)
 
