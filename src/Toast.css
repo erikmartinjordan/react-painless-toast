@@ -13,10 +13,10 @@
     top: 50px;
 }
 .Toast.Ok{
-    border-left: 3px solid var(--green);
+    border-left: 3px solid green;
 }
 .Toast.Ko{
-    border-left: 3px solid var(--red);
+    border-left: 3px solid red;
 }
 .Toast .Title{
     font-size: medium;
