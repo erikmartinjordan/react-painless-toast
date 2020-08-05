@@ -2,7 +2,7 @@
 
 It displays a toast in the right top corner of the screen.
 
-![Toast](https://media0.giphy.com/media/Tjov8Fpr1jYfujYAIz/giphy.gif)
+![Toast](https://media0.giphy.com/media/QZUPpcqD0Ud3BvpPn5/giphy.gif)
 
 ## Installation
 
