@@ -5,7 +5,7 @@
 
 It displays a toast in the right top corner of the window.
 
-![Toast](https://media0.giphy.com/media/QZUPpcqD0Ud3BvpPn5/giphy.gif)
+![Toast](https://github.com/erikmartinjordan/react-painless-toast/blob/master/react-painless-toast.gif?raw=true)
 
 ## Installation
 
