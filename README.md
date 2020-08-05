@@ -45,7 +45,7 @@ export default App;
 
 ## Author
 
-[Erik Martín](https://erikmartinjordan.com)
+[Erik Martín Jordán](https://erikmartinjordan.com)
 
 ## License
 
