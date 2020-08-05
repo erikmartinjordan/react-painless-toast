@@ -29,7 +29,7 @@ function App() {
     return (
         <div className = 'App'>
             <Toast 
-                message = {'Changes done succesfully!'} 
+                message = {'Changes done successfully!'} 
                 seconds = {3} 
                 type    = {'Ok'}
             />
