@@ -1,7 +1,7 @@
 {
   "name": "react-painless-toast",
-  "version": "1.0.4",
-  "description": "🍞 Simple toast component for React",
+  "version": "1.0.5",
+  "description": "🍞 Simple toast component for React.",
   "main": "./build/index.js",
   "author": {
     "name": "Erik Martín Jordán",
